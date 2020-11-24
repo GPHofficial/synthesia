@@ -1,0 +1,17 @@
+torch
+streamlit
+pyknon
+pretty_midi
+pypianoroll
+mir_eval
+fluidsynth
+midi2audio
+librosa
+tqdm
+dill
+music21
+keras
+numpy==1.18.5
+h5py==2.10.0
+tensorflow
+gdown
